@@ -9,7 +9,7 @@ Project-4 at METIS data science bootcamp
 
 > **Problem Statement:** 
 >
-> - What should a data scientist's LinkedIn summary look like? 
+> - What should a scientist's LinkedIn summary look like? 
 
   
 
@@ -19,9 +19,10 @@ LinkedIn is the number one social platform that is used by professionals to netw
 
 **Objectives:**
 
-- [x] Collect text data by webscraping or using API and use NLP to analyze it 
+- [x] Collect wikipedia articles of scientists, instead of scraping LinkedIn summaries (due to potential legal reasons)
+- [x] Concatenate summaries of these scientists and use NLP to find structure in these documents 
 - [x] Use unsupervised learning (dimensionality reduction, topic modeling) to provide insights into the dataset
-- [x] Create a recommender system that can be used to suggest other related articles
+- [x] Create a recommender system that can be used to suggest related articles, based on the wiki summary
 
 
 
