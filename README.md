@@ -22,10 +22,8 @@ LinkedIn is the number one social platform that is used by professionals to netw
 - [x] Collect wikipedia articles of scientists, instead of scraping LinkedIn summaries (due to potential legal reasons)
 - [x] Concatenate summaries of these scientists and use NLP to find structure in these documents 
 - [x] Use unsupervised learning (dimensionality reduction, topic modeling) to provide insights into the dataset
-- [ ] Create a recommender system that can be used to suggest related articles, based on the wiki summary
+- [x] Create a recommender system that can be used to suggest related articles, based on the wiki summary
 
-**To Do:**
-- [ ] Extensive document cleaning 
   
 ![FIg](./docs/figures/Final_onTableau.gif)
   
