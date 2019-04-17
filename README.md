@@ -17,6 +17,8 @@ Project-4 at METIS data science bootcamp
 
 LinkedIn is the number one social platform that is used by professionals to network with each other. This plaftorm also provides individuals a way to showcase their work experiences, abilities, and expertise.  These information are typically used by job recruiters as a measure of fitness for a given job position. To appeal to job recruiters, how should one write this 1-2 paragraphs of LinkedIn summary? In particular, how should a scientist in academia (transitioning into data science or related field) write his/her bio in a way that appeals to recruiters in industry?   
 
+Read the full story in [my Blog](https://jhonsen.github.io/2019/03/15/Similar-Scientists/)
+  
 **Objectives:**
 
 - [x] Collect wikipedia articles of scientists, instead of scraping LinkedIn summaries (due to potential legal reasons)
