@@ -38,6 +38,6 @@ Read the full story in [my Blog](https://jhonsen.github.io/2019/03/15/Similar-Sc
 - [Step1_DataAcquisition.ipynb](./notebooks/Step1_DataAcquisition.ipynb) - notebook on importing dataset from Wikipedia 
 - [Step2_Cleaning.ipynb](./notebooks/Step2_Cleaning.ipynb) - notebook on preliminary cleaning of the dataset
 - [Step3_TopicModeling.ipynb](./notebooks/Step3_TopicModeling.ipynb) - notebook on _topic modeling_ using using Non-negative Matrix Factorization 
-- [Step4_ClusteringViz.ipynb](./notebooks/Step4_ClusteringViz.ipynb.ipynb) - notebook on visualization of hyperdimensional document-to-term matrix using t-SNE and kMeans clustering using UMAP
+- [Step4_ClusteringViz.ipynb](./notebooks/Step4_ClusteringViz.ipynb) - notebook on visualization of hyperdimensional document-to-term matrix using t-SNE and kMeans clustering using UMAP
   
   
